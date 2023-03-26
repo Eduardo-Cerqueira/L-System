@@ -1,2 +1,2 @@
-# L-System
-Simple L-System using Python
+# Procedural Generation
+Multiple methods to generate content proceduraly using Python
